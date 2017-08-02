@@ -120,21 +120,16 @@ NOMEDIT	 | 	nom éditeur	 | 	A	 | 	30	 | 	élémentaire   signalétique 	 |
 DATE	 | 	date d’emprunt	 | 	N	 | 	8	 | 	élémentaire   mouvement	 | 	date plausible
 
 
-<br/>
-<br/>
 #### 2. Modèle Conceptuel des Données (MCD)
 ![MCD](/images/MCD.jpg)
 
 
-<br/>
-<br/>
 
 #### 3. Modèle logique des Données (MLD)
 ![MLD](/images/MLD.jpg)
 
 
-<br/>
-<br/>
+
 #### 4. Script MySQL
 ![Cliquer ici pour afficher le script MySQL.](/scripts/script.sql)
 
