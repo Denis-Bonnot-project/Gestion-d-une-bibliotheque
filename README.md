@@ -1,4 +1,4 @@
-﻿# Bibliothèque de prêts 
+﻿# Gestion d'une bibliothèque  
 _(extrait de "Initiation à Merise", auteur inconnu)_
 
 ## Situation existante
@@ -34,6 +34,8 @@ N° | Nom
 0951 | WILLY VANDERSTEEN 
 ... | ...   
 
+
+
 ### FICHE LIVRE
 
 ```
@@ -60,6 +62,8 @@ AUTEUR      : WILLY VANDERSTEEN
 |009 | 28/07/2017 | 001
 
 La ligne est rayée lorsque l'exemplaire est rendu.
+
+
 
 ### FICHE ADHÉRENT
 
@@ -115,12 +119,23 @@ CODEDIT	 | 	code éditeur	 | 	N	 | 	2	 | 	élémentaire   signalétique	 |
 NOMEDIT	 | 	nom éditeur	 | 	A	 | 	30	 | 	élémentaire   signalétique 	 | 	
 DATE	 | 	date d’emprunt	 | 	N	 | 	8	 | 	élémentaire   mouvement	 | 	date plausible
 
+
+<br/>
+<br/>
 #### 2. Modèle Conceptuel des Données (MCD)
 ![MCD](/images/MCD.jpg)
+
+
+<br/>
+<br/>
 
 #### 3. Modèle logique des Données (MLD)
 ![MLD](/images/MLD.jpg)
 
+
+<br/>
+<br/>
 #### 4. Script MySQL
-![MySQL](/scripts/script.sql)
-![MySQL](/scripts/script.txt)
+![Cliquer ici pour afficher le script MySQL.](/scripts/script.sql)
+
+---
